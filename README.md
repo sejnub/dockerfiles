@@ -8,6 +8,8 @@ Contains:
   
   
 ## erlide (to be done)
+A system for developing erlang projects with the erlide IDE
+
 Contains:
 - graphical UI
 - erlang

@@ -2,12 +2,14 @@
 
 ## flow-ui (to be done)
 A running webserver that works like flowhub.io
-It needs
+
+Contains:
 - node.js
   
   
 ## erlide (to be done)
-A running linux with 
+Contains:
+- graphical UI
 - erlang
 - eclipse
 - erlide
